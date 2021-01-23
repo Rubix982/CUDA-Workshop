@@ -1,4 +1,11 @@
-# CUDA-Workshop
+# CUDA Workshop, UPC
+
+<p align="left">
+ <a href="#">
+<img alt='CUDA' src="https://img.shields.io/badge/CUDA-CUDA?style=for-the-badge&logo=NVIDIA&color=1A1918"/>
+ </a>
+</p>
+
 
 ## Content
 
